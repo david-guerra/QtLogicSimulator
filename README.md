@@ -1,0 +1,2 @@
+# QtLogicSimulator
+Simple logic simulator
